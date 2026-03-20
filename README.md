@@ -2,7 +2,8 @@
 This is Zhouheng, a Software Engineering student at UC Irvine.
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats-kappa-navy-11.vercel.app/api/top-langs/?username=ZhouhengTao&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats-kappa-navy-11.vercel.app/api/top-langs/?username=ZhouhengTao&layout=compact&langs_count=10&cache_seconds=21600&v=1)
+
 
 <!--
 **ZhouhengTao/ZhouhengTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
