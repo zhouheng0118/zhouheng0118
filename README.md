@@ -4,10 +4,10 @@ This is Zhouheng, a Software Engineering student at UC Irvine.
 
 ![Top Langs](https://github-readme-stats-kappa-navy-11.vercel.app/api/top-langs/?username=zhouheng0118&layout=compact&langs_count=10&cache_seconds=21600&v=1)
 
-![Isometric Commit Calendar](https://raw.githubusercontent.com/zhouheng0118/zhouheng0118/main/metrics.isocalendar.svg)
+![snake gif](https://raw.githubusercontent.com/zhouheng0118/zhouheng0118/output/github-contribution-grid-snake.svg)
 
 <!--
-![snake gif](https://raw.githubusercontent.com/zhouheng0118/zhouheng0118/output/github-contribution-grid-snake.svg)
+![Isometric Commit Calendar](https://raw.githubusercontent.com/zhouheng0118/zhouheng0118/main/metrics.isocalendar.svg)
 -->
 
 <!--
