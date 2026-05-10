@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Zhouheng, a Software Engineering student at UC Irvine.
+This is Zhouheng, a Software Engineering student at University of California, Irvine and an incoming student at Carnegie Mellon University.
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats-kappa-navy-11.vercel.app/api/top-langs/?username=zhouheng0118&layout=compact&langs_count=10&cache_seconds=21600&v=1)
